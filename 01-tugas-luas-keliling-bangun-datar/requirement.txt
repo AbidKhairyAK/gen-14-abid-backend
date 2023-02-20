@@ -1,0 +1,7 @@
+TUGAS AKHIR PEKAN
+
+1. Buatlah class bidang datar (Segitiga, Persegi, Lingkaran, BelahKetupat) berikut dengan atributnya masing-masing dan jangan lupa setter dan getternya, juga constructornya
+
+2. Buatlah fungsi untuk menghitung luas dan keliling dari masing-masing bidang datar yang telah dibuat.
+
+3. Buat program untuk menampilkan luas dari kumpulan (array) bidang datar yang telah dibuat.
